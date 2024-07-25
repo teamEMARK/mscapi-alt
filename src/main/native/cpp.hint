@@ -1,0 +1,2 @@
+#define MSCAPIALTDLL_API __declspec(dllexport)
+#define MSCAPIALTDLL_API __declspec(dllimport)
